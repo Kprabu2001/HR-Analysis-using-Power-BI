@@ -28,3 +28,8 @@ Hr Analysis Power BI (prabu K).pbix: Power BI dashboard file
 
 📈 Insights
 This dashboard helps HR teams identify patterns in attrition, understand workforce composition, and optimize employee engagement strategies.
+
+Screen shot
+
+! [image ALT] ()
+
