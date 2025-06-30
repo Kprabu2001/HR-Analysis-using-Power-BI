@@ -1,8 +1,6 @@
 # HR-Analysis-using-Power-BI
 This project showcases an interactive HR Analytics Dashboard built using Power BI. It provides insights into key human resources metrics, helping organizations make data-driven decisions related to workforce planning and employee management.
 
-This project showcases an interactive HR Analytics Dashboard built using Power BI. It provides insights into key human resources metrics, helping organizations make data-driven decisions related to workforce planning and employee management.
-
 📌 Key Features
 
 1.Employee Attrition Analysis
@@ -31,4 +29,4 @@ This dashboard helps HR teams identify patterns in attrition, understand workfor
 
 Screen shot
 
-![Image](https://github.com/user-attachments/assets/0fede7ab-51a0-48d0-929b-58fb9446cbdb)
+![Image](https://github.com/user-attachments/assets/2d646efb-174d-445f-85b3-9b1b57d9f4e2)
