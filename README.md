@@ -31,5 +31,4 @@ This dashboard helps HR teams identify patterns in attrition, understand workfor
 
 Screen shot
 
-! [image ALT] (https://github.com/Kprabu2001/HR-Analysis-using-Power-BI/blob/7fec29e65ad411f9a0ef261e83d232252819ea60/sample%20screenshot.png)
-
+![Image](https://github.com/user-attachments/assets/0fede7ab-51a0-48d0-929b-58fb9446cbdb)
